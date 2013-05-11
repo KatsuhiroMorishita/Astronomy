@@ -1,4 +1,4 @@
-﻿C:\Users\morishita\Documents\workspace\programing_project\C_charp\lib\Astronomy\Astronomy\bin\Debug\Astronomy.dll
+C:\Users\morishita\Documents\workspace\programing_project\C_charp\lib\Astronomy\Astronomy\bin\Debug\Astronomy.dll
 C:\Users\morishita\Documents\workspace\programing_project\C_charp\lib\Astronomy\Astronomy\bin\Debug\Astronomy.pdb
 C:\Users\morishita\Documents\workspace\programing_project\C_charp\lib\Astronomy\Astronomy\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\morishita\Documents\workspace\programing_project\C_charp\lib\Astronomy\Astronomy\obj\Debug\Astronomy.dll
